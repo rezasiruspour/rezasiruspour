@@ -3,8 +3,8 @@
 - 👀 I'm interested in Forex Trading
 
 - 📫 How to reach me :
-Youtube : https://www.youtube.com/@rtmfacts
-Telegram : https://t.me/rtmfacts
+(Youtube : https://www.youtube.com/@rtmfacts)
+(Telegram : https://t.me/rtmfacts)
 
 <!--
 **rezasiruspour/rezasiruspour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
